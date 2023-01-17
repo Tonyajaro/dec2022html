@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="126c38af-4414-464c-9cb0-4bed45b219d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec2022html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/family.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/homer/homer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/images/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="126c38af-4414-464c-9cb0-4bed45b219d1" name="Changes" comment="homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673987210924</updated>
-      <workItem from="1673987212648" duration="10714000" />
+      <workItem from="1673987212648" duration="11140000" />
     </task>
+    <task id="LOCAL-00001" summary="homework">
+      <created>1673998466154</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673998466154</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework" />
   </component>
 </project>
